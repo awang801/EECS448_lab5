@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title></title>
+    <meta content="">
+    <style></style>
+  </head>
+  <body>
+          <form name="CreatePosts" action = "CreatePosts.php" method="post">
+        <p> Author ID: <input type = "text" name = "author_id" id = "author_id"></p>
+        <p> Write your post here: <input type = "text" name = "content" id = "content"></p>
+        <p><input type="submit"></p>
+        </form>
+  </body>
+</html>
